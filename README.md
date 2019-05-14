@@ -1,0 +1,1 @@
+Prompter is a library for writing CLIs.  Have fun!
